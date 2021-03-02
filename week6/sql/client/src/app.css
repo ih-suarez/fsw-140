@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    background-color: #EFF9F0;
+}
+
+.card {
+    display: block;
+    border: 2px solid;
+    margin: auto;
+    width: 300px;
+    margin-top: 20px;
+    background-color: #2E86AB;
+}
+
+h3 {
+    background-color: #2E86AB;
+
+}
