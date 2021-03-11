@@ -1,0 +1,12 @@
+.seasonOne {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    margin: 40px;
+}
+
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
